@@ -1,2 +1,6 @@
 
-Creating a new branch is fuuuuuuuuu
+<<<<<<< HEAD
+Creating a new branch is ÅªÉ¶ßÖ
+=======
+Creating a new branch is ÅªÉ¶ßÖ
+>>>>>>> dev
